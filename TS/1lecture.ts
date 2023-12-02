@@ -22,10 +22,10 @@ type GirlFriend = {
   readonly name: string
 }
 const 여친 :GirlFriend = { name:'수지'}
-console.log("여친.",여친.name)
+// console.log("여친.",여친.name)
 //읽기 전용 속성이므로 'name'에 할당할 수 없습니다.ts(2540)
 //여친.name = 'park'
-console.log("여친.",여친.name)
+// console.log("여친.",여친.name)
 
 
 /*타입 단순 합치기*/
