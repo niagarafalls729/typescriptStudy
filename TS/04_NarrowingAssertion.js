@@ -21,4 +21,8 @@ function a41(x) {
     let arr4 = [];
     arr4[0] = x;
 }
+// let 이름4 : string = 'kim';
+// 이름4 as number; // 에러 ( 타입변경이아님 )
 console.log(a41(123));
+// assertion 문법은 아래같은 에러 못잡음 
+// console.log(a41('123')) 
