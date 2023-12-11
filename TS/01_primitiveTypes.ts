@@ -25,3 +25,4 @@ type ColorStandard = {
     en: string;
   }; 
 let color : ColorStandard[] =  [{ko : '빨강' , en : 'red'},{ ko : '파랑', en : 'blue'}]
+console.log("color",color)

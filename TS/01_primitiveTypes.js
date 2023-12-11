@@ -16,3 +16,4 @@ let pop = {
     title: '애국가'
 };
 let color = [{ ko: '빨강', en: 'red' }, { ko: '파랑', en: 'blue' }];
+console.log("color", color);
